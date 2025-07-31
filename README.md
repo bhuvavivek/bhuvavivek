@@ -14,7 +14,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bhuvavivek&theme=vue-dark&no-frame=false&no-bg=true&margin-w=4)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=bhuvavivek)](https://github.com/ryo-ma/github-profile-trophy)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=bhuvavivek&limit=5&theme=dark&combine_all_yearly_contributions=true)
 

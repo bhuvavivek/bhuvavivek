@@ -9,7 +9,7 @@ I work across interfaces, backend services and the environments that keep them r
 ### What I've built
 
 - **NetAI (Mar 2025 – Jul 2026):** backend services for a network observability & AIOps platform, monitoring thousands of network devices (SNMP, logs, traps, NetFlow)
-- Cut device-collection overhead **~30%** with a pooled, reusable SSH session layer across multi-vendor hardware
+- Reduced repeated device-collection work with a pooled, reusable SSH session layer across multi-vendor hardware
 - **Event-driven alerting on Apache Kafka:** routing, enrichment, suppression and escalation across 5 notification channels
 - gRPC services powering topology generation and real-time infrastructure visualisation (Redis + ClickHouse)
 - Earlier: full-stack SaaS products with Node.js, TypeScript, React and Next.js

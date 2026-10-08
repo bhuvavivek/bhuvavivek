@@ -1,35 +1,31 @@
 # Vivek Bhuva
 
-**Software Engineer · Full-stack & Backend · Observability & Cloud Delivery · Building practical AI workflows**
+**Backend & Platform Engineer · Java/Spring Boot · Node.js · Python · Distributed Systems & Observability**
 
-Ahmedabad, India · [vivekbhuva.com](https://vivekbhuva.com) · [LinkedIn](https://www.linkedin.com/in/vivekhb/) · [contact@vivekbhuva.com](mailto:contact@vivekbhuva.com)
+Ahmedabad, India · [Portfolio](https://vivekbhuva.com) · [LinkedIn](https://www.linkedin.com/in/vivekhb/) · [GitHub](https://github.com/bhuvavivek)
 
-I work across interfaces, backend services and the environments that keep them running. Most of my recent work has been the systems that watch other systems: telemetry pipelines, event-driven alerting and the root-cause work that turns a flood of alarms into the one failure that matters. I'm now extending that into GenAI application engineering.
+I build backend services and the operational systems around them—from APIs and event pipelines to observability, deployment, and production troubleshooting. My strongest shipped work is in network observability, full-stack SaaS, and practical service delivery. I’m expanding into AI application engineering through RAG and LLM-backed workflows.
 
-### What I've built
+### Experience
 
-- **NetAI (Mar 2025 – Jul 2026):** backend services for a network observability & AIOps platform, monitoring thousands of network devices (SNMP, logs, traps, NetFlow)
-- Reduced repeated device-collection work with a pooled, reusable SSH session layer across multi-vendor hardware
-- **Event-driven alerting on Apache Kafka:** routing, enrichment, suppression and escalation across 5 notification channels
-- gRPC services powering topology generation and real-time infrastructure visualisation (Redis + ClickHouse)
-- Earlier: full-stack SaaS products with Node.js, TypeScript, React and Next.js
-- Now: GenAI applications with RAG, LLM APIs and vector search
+- **VIVA Events Management · Full Stack Software Engineer (Aug 2026–Present):** Support a 20+ service environment spanning React/Angular interfaces and Java/Spring Boot or Node.js services. Work on Docker packaging for restricted-network deployments, Linux services, Nginx, Jenkins, and integration troubleshooting.
+- **NetAI Inc. · Software Engineer (Mar 2025–Jul 2026):** Built backend and observability capabilities for a network platform monitoring thousands of devices. Improved collection responsiveness by about 30% with pooled, reusable SSH sessions; contributed to gRPC topology services, Kafka alert processing, and topology-aware investigation workflows.
+- **Vermillion Tech · Software Developer / Full Stack Engineer (Mar 2023–Feb 2025):** Built SaaS features for salon management, e-commerce, and B2B workflows. Worked with React/Next.js, Node.js/TypeScript, Java/Spring Boot microservices, MongoDB, Redis, Docker, payment integrations, chat, and notifications. SwiftRut startup experience is consolidated under Vermillion Tech.
 
 ### Selected work
 
-| Project | What it is |
-| --- | --- |
-| [vivekbhuva.com](https://vivekbhuva.com) | Portfolio, case studies and interactive résumé. Next.js-compatible app on Cloudflare Workers + D1 |
-| [ai-knowledge-assistant](https://github.com/bhuvavivek/ai-knowledge-assistant) | RAG service: FastAPI + ChromaDB + local embeddings. Ask questions over ops docs, get grounded, sourced answers |
-| [NetAI observability](https://vivekbhuva.com/work/netai-observability) | Case study: signal flow, service context and the investigation workflow |
-| [CollisionCam](https://vivekbhuva.com/work/collisioncam-interfaces) | React interfaces for footage discovery, checkout and administration ([dashboard](https://github.com/bhuvavivek/collisionCam_Dashboard) · [app](https://github.com/bhuvavivek/CollisionCam_prime)) |
-| [Next-Ecommerce](https://vivekbhuva.com/work/next-ecommerce-auth) | Next.js account and authentication prototype ([code](https://github.com/bhuvavivek/Next-Ecommerce)) |
+- [Portfolio and work samples](https://vivekbhuva.com/work) — case studies and interactive résumé; examples are labeled by evidence and project maturity.
+- [AI Knowledge Assistant](https://github.com/bhuvavivek/ai-knowledge-assistant) — FastAPI/ChromaDB RAG application over operational documents.
+- [Network observability case study](https://vivekbhuva.com/work/netai-observability) — service context, signal flow, and investigation workflow.
+- [CollisionCam interfaces](https://vivekbhuva.com/work/collisioncam-interfaces) — React interfaces for footage discovery, checkout, and administration.
+- [Next-Ecommerce prototype](https://vivekbhuva.com/work/next-ecommerce-auth) — Next.js account and authentication prototype.
 
-### Stack
+### Toolkit
 
-`Python` `FastAPI` `Apache Kafka` `gRPC` `ClickHouse` `Redis` `PostgreSQL` `Elasticsearch` `Node.js` `TypeScript` `React` `Next.js` `Docker` `Kubernetes` `AWS` `Cloudflare` `Prometheus` `Grafana` `LLM / RAG`
+Java · Spring Boot · Node.js · TypeScript · Python · FastAPI · React · Angular · Kafka · gRPC · PostgreSQL · MongoDB · Redis · ClickHouse · Elasticsearch · Docker · Kubernetes · Linux · Nginx · Jenkins · AWS · GCP · Prometheus · Grafana · LLM APIs · RAG
 
-### Get in touch
+### Open to
 
-Open to Software Engineer / Backend / Distributed Systems / SDE roles: Bangalore · Hyderabad · Pune · Ahmedabad · Remote.
-Send a brief at [vivekbhuva.com/contact](https://vivekbhuva.com/contact) or email [contact@vivekbhuva.com](mailto:contact@vivekbhuva.com).
+Backend Engineer · Platform Engineer · Distributed Systems / Observability Engineer · AI-platform backend roles. Based in India; open to suitable roles in Ahmedabad, Bengaluru, Hyderabad, Pune, and remote/hybrid.
+
+For opportunities, use the [website contact form](https://vivekbhuva.com/contact).
